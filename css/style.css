@@ -1,18 +1,26 @@
+/* GENERAL */
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* BODY STYLE */
 body{
   background-color: #083B4C;
   color: white;
 }
 
+/* HEADER STYLE */
 header{
   max-width: 500px;
   margin: 20px auto;
+  box-shadow: #0DD6A1
+  ;
 }
+
+/* MAIN STYLE */
+
 
 .container{
   flex-wrap: wrap;
@@ -41,8 +49,4 @@ header{
 
 .fizzbuzz{
   background-color: #F2476F;
-}
-
-.i{
-  display: none;
 }

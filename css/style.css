@@ -12,7 +12,6 @@ body{
 header{
   max-width: 500px;
   margin: 20px auto;
-
 }
 
 .container{
@@ -37,4 +36,8 @@ header{
 
 .fizz{
   background-color: #0DD6A1;
+}
+
+.i{
+  display: none;
 }
